@@ -1,0 +1,6 @@
+[core]
+    remote = hf
+['remote "hf"']
+    url = s3://ifj/nonejad-2026
+    endpointurl = https://s3.hf.co/corydavis
+    region = us-east-1
